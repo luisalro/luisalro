@@ -2,7 +2,7 @@
 
 
 <p>Welcome! </br> 
-Data analyst at EY (DnA FSO) from <img src="https://cdn-icons-png.flaticon.com/512/323/323365.png" width="13"/> <b>Spain</b>, currently living in <b>Madrid</b>. </p>
+Currently working as a Data analyst at EY (DnA FSO) from <img src="https://cdn-icons-png.flaticon.com/512/323/323365.png" width="13"/> <b>Spain</b>, currently living in <b>Madrid</b>. </p>
 <h3>Sometimes I code in...</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
