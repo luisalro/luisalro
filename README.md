@@ -5,7 +5,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-8DD6F9?style=flat-square&logo=rk&logoColor=white" /> 
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft_Azure-8DD6F9?style=flat-square&logo=rk&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
