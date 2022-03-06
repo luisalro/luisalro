@@ -9,7 +9,7 @@
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
  
-  <h3>Skill and dexterity with</h3> <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-F05032?style=flat-square&logo=python&logoColor=white" />
+  <h3>Skill and dexterity with...</h3> <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-F05032?style=flat-square&logo=python&logoColor=white" />
   
   
 <h3>Several projects done with...</h3>
