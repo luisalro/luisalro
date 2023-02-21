@@ -17,12 +17,3 @@
 </p>
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Luis-Román&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Román&theme=blue-green)
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=Luis-Román/Python)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Luis-Román)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Luis-Román/Python)
