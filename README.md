@@ -6,6 +6,7 @@
 <h3>Sometimes I code in...</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-00599C?logo=SQL&logoColor=white" /> 
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /> 
   
 <h3>Several projects done with...</h3>
@@ -16,3 +17,12 @@
 </p>
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
